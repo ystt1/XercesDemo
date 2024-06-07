@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book>
+        <title>Java Programming</title>
+        <author>John Doe</author>
+        <year>2020</year>
+        <price>29.99</price>
+    </book>
+    <book>
+        <title>Python Basics</title>
+        <author>Jane Smith</author>
+        <year>2019</year>
+        <price>19.95</price>
+    </book>
+    <book>
+        <title>C++ for Beginners</title>
+        <author>David Johnson</author>
+        <year>2021</year>
+        <price>24.50</price>
+    </book>
+</books>
